@@ -7,5 +7,9 @@ local_machine{
    edit.mornure.changes [c:/b- "codigo.txt" + "vieja_cogida.jpg" "es_virus.png";
 
 }
+HKEY_CURRENT_USER{
+  MESSAGE "QUE PEDO A DONDE VAMOS A PISTEAR, ES JUEVEVES xD, O CULONES";
+  STORAGE_STATUS "HABER QUIEN LEE ESTO A LA VERGA..."
+}
 =======
 >>>>>>> parent of 48c377b... la ultima y nos vamos
